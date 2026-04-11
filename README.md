@@ -40,7 +40,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vunixx&theme=tokyo-night"/>
 </p>
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyNmlpMmU4azd2dmx6c2ZzcW16MHl6bHI5bzJ1dGc4enYwbXBzMGY0aiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/BrS33f5cwKDgn8UJV8/200w.gif" width="100%" width="100%" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/6f027f63393359.5ab4ecb5ebad9.gif" width="100%" width="100%" />
 </p>
 ---
 
