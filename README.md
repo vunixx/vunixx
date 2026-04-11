@@ -23,6 +23,7 @@
 ## Gw bisa apasi??
 
 <p align="center">
+  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
 ![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge\&logo=lua)
