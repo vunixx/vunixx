@@ -4,7 +4,7 @@
   <img src="https://images.steamusercontent.com/ugc/52462047368299146/551F93D89124C0D52E1B4A377D1BDE4C2404A225/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Vunixx</h1>
+<h1 align="center">hehe gw **Rey**</h1>
 
 <p align="center">
   💻 Developer | 🎮 Game Creator | ⚡ System Builder
@@ -12,39 +12,47 @@
 
 ---
 
-## 🚀 About Me
+## Ini gw
 
-* 🎮 **Gamer**
-* 🧠 **automation & bot (WhatsApp, Discord)**
+* 🎮 **Nge game tros**
+* 🧠 **otomisasi & bot (WhatsApp, Discord)**
 * ⚡ **real project & system backend**
 
 ---
 
-## ⚒️ Tech Stack
+## Gw bisa apasi??
 
 <p align="center">
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
+![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge\&logo=lua)
+
 ![Unity](https://img.shields.io/badge/Unity-111111?style=for-the-badge\&logo=unity)
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge\&logo=roblox)
-![Supabase](https://img.shields.io/badge/Supabase-0f172a?style=for-the-badge\&logo=supabase)
+![Blender](https://img.shields.io/badge/Blender-111111?style=for-the-badge\&logo=blender)
 
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=node.js)
+![Supabase](https://img.shields.io/badge/Supabase-0f172a?style=for-the-badge\&logo=supabase)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
+
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-111111?style=for-the-badge\&logo=visualstudiocode)
 </p>
 
 ---
 
-## 🔥 Activity Graph
+## Graph" an gw
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vunixx&theme=tokyo-night"/>
 </p>
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/6f027f63393359.5ab4ecb5ebad9.gif" width="100%" width="100%" />
-</p>
+
 ---
 
-## 🧩 Profile Info
+## Gw sih
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vunixx&color=blue" />
@@ -53,7 +61,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Gw? nih
 
 <p align="center">
   <a href="https://discord.com/users/1229307893396934758"><img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord"></a>
@@ -63,20 +71,20 @@
 
 ---
 
-## 🧠 Quote
+## Kata gw
 
-> "Code. Build. Break. Fix. Repeat."
+> "Code. gawe. turu. benerin. Repeat."
 
 ---
 
-## ⚡ Fun Fact
+## Fakta kata gw teh
 
-* 💀 Lebih sering debug daripada tidur
-* 🚀 Lebih suka build system daripada teori
-* 🎮 Developer + Gamer = Perfect Combo
+* mending turu sih
+* ga suka diem
+* makan tidoooo 
 
 ---
 
 <p align="center">
-  🔥 Thanks for visiting my profile 🔥
+  mksh dah dateng wok | © 2018 allright reserved
 </p>
