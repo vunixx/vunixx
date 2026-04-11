@@ -1,10 +1,9 @@
-<!-- 🔥 BANNER / GIF -->
 
 <p align="center">
   <img src="https://images.steamusercontent.com/ugc/52462047368299146/551F93D89124C0D52E1B4A377D1BDE4C2404A225/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%" width="100%" />
 </p>
 
-<h1 align="center">hehe gw **Rey**</h1>
+<h1 align="center">hehe gw Rey</h1>
 
 <p align="center">
   💻 Developer | 🎮 Game Creator | ⚡ System Builder
@@ -98,5 +97,5 @@
 ---
 
 <p align="center">
-  mksh dah dateng wok | © 2018 allright reserved
+  mksh dah dateng wok | Rey 
 </p>
