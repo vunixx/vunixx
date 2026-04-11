@@ -22,25 +22,36 @@
 
 ## Gw bisa apasi??
 
-<p align="center">
-  
+<p align="center"> 
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge\&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
 ![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge\&logo=lua)
 
 ![Unity](https://img.shields.io/badge/Unity-111111?style=for-the-badge\&logo=unity)
+![Unreal Engine](https://img.shields.io/badge/Unreal-000000?style=for-the-badge\&logo=unrealengine)
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge\&logo=roblox)
 ![Blender](https://img.shields.io/badge/Blender-111111?style=for-the-badge\&logo=blender)
 
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3)
+![Tailwind](https://img.shields.io/badge/Tailwind-111111?style=for-the-badge\&logo=tailwindcss)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge\&logo=express)
+
 ![Supabase](https://img.shields.io/badge/Supabase-0f172a?style=for-the-badge\&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge\&logo=firebase)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge\&logo=mysql)
+
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-111111?style=for-the-badge\&logo=netlify)
 
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-111111?style=for-the-badge\&logo=visualstudiocode)
+![Visual Studio](https://img.shields.io/badge/VisualStudio-111111?style=for-the-badge\&logo=visualstudio)
+![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge\&logo=postman)
 </p>
 
 ---
