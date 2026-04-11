@@ -54,9 +54,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=google-chrome"></a>
+  <a href="https://discord.com/users/1229307893396934758"><img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord"></a>
+  <a href="https://instagram.com/vunixx._"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram"></a>
+  <a href="https://vunixx.github.io/homepage-en.html"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=google-chrome"></a>
 </p>
 
 ---
