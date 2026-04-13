@@ -30,7 +30,7 @@
 
 ![Unity](https://img.shields.io/badge/Unity-111111?style=for-the-badge\&logo=unity)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-000000?style=for-the-badge\&logo=unrealengine)
-![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge\&logo=roblox)
+![Roblox Studio](https://img.shields.io/badge/Roblox-000000?style=for-the-badge\&logo=roblox)
 ![Blender](https://img.shields.io/badge/Blender-111111?style=for-the-badge\&logo=blender)
 
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5)
