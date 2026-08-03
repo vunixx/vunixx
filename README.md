@@ -6,16 +6,16 @@
 <h1 align="center">hehe gw Rey</h1>
 
 <p align="center">
-  💻 Developer | 🎮 Game Creator | ⚡ System Builder
+  Developer | Game Creator | System Builder
 </p>
 
 ---
 
 ## Ini gw
 
-* 🎮 **Nge game tros**
-* 🧠 **otomisasi & bot (WhatsApp, Discord)**
-* ⚡ **real project & system backend**
+* **Nge game tros**
+* **otomisasi & bot (WhatsApp, Discord)**
+* **real project & system backend**
 
 ---
 
