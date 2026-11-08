@@ -1,101 +1,114 @@
-
-<p align="center">
-  <img src="https://images.steamusercontent.com/ugc/52462047368299146/551F93D89124C0D52E1B4A377D1BDE4C2404A225/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%" width="100%" />
+ <p align="center">
+  <img src="https://images.steamusercontent.com/ugc/52462047368299146/551F93D89124C0D52E1B4A377D1BDE4C2404A225/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%" />
 </p>
 
-<h1 align="center">hehe gw Rey</h1>
+<h1 align="center">Rey</h1>
 
 <p align="center">
   Developer | Game Creator | System Builder
 </p>
 
----
-
-## Ini gw
-
-* **Nge game tros**
-* **otomisasi & bot (WhatsApp, Discord)**
-* **real project & system backend**
-
----
-
-## Gw bisa apasi??
-
-<p align="center"> 
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge\&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
-![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge\&logo=lua)
-
-![Unity](https://img.shields.io/badge/Unity-111111?style=for-the-badge\&logo=unity)
-![Unreal Engine](https://img.shields.io/badge/Unreal-000000?style=for-the-badge\&logo=unrealengine)
-![Roblox Studio](https://img.shields.io/badge/Roblox-000000?style=for-the-badge\&logo=roblox)
-![Blender](https://img.shields.io/badge/Blender-111111?style=for-the-badge\&logo=blender)
-
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3)
-![Tailwind](https://img.shields.io/badge/Tailwind-111111?style=for-the-badge\&logo=tailwindcss)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge\&logo=express)
-
-![Supabase](https://img.shields.io/badge/Supabase-0f172a?style=for-the-badge\&logo=supabase)
-![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge\&logo=firebase)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge\&logo=mysql)
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-111111?style=for-the-badge\&logo=netlify)
-
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-111111?style=for-the-badge\&logo=visualstudiocode)
-![Visual Studio](https://img.shields.io/badge/VisualStudio-111111?style=for-the-badge\&logo=visualstudio)
-![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge\&logo=postman)
+<p align="center">
+  Building games, applications, automation tools, and backend systems.
 </p>
 
 ---
 
-## Graph" an gw
+## About Me
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vunixx&theme=tokyo-night"/>
+I'm a developer interested in software development, game creation, automation, and system architecture.
+
+I enjoy building practical projects, experimenting with different technologies, and developing systems that solve real problems.
+
+My work ranges from interactive game experiences to web applications, backend services, and automation tools.
+
+## Technical Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" />
+</p>
+
+### Game Development & 3D
+
+<p>
+  <img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-111111?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roblox_Studio-111111?style=for-the-badge&logo=roblox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-111111?style=for-the-badge&logo=blender&logoColor=white" />
+</p>
+
+### Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+### Database & Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3FCF8E" />
+  <img src="https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Visual_Studio-111111?style=for-the-badge&logo=visualstudio&logoColor=9B4F96" />
+  <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-111111?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
 </p>
 
 ---
 
-## Gw sih
+## GitHub Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vunixx&color=blue" />
-  <img src="https://img.shields.io/github/followers/vunixx?style=social" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vunixx&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
 
-## Gw? nih
+## GitHub Profile
 
 <p align="center">
-  <a href="https://discord.com/users/1229307893396934758"><img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord"></a>
-  <a href="https://instagram.com/vunixx._"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram"></a>
-  <a href="https://vunixx.github.io/homepage-en.html"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=google-chrome"></a>
+  <img src="https://komarev.com/ghpvc/?username=vunixx&color=64748b&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/vunixx?style=flat-square&color=64748b&label=FOLLOWERS" />
 </p>
 
 ---
 
-## Kata gw
+## Contact & Links
 
-> "Code. gawe. turu. benerin. Repeat."
-
----
-
-## Fakta kata gw teh
-
-* mending turu sih
-* ga suka diem
-* makan tidoooo 
+<p align="center">
+  <a href="https://vunixx.page.gd">
+    <img src="https://img.shields.io/badge/Personal_Website-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/1229307893396934758">
+    <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/vunixx._">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  mksh dah dateng wok | Rey 
+  <strong>Code. Build. Improve.</strong>
+  <br />
+  Rey | Vunixx
 </p>
