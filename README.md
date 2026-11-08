@@ -2,7 +2,7 @@
   <img src="https://images.steamusercontent.com/ugc/52462047368299146/551F93D89124C0D52E1B4A377D1BDE4C2404A225/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%" />
 </p>
 
-<h1 align="center">Rey</h1>
+<h1 align="center">Raihan Croniawan Ramadhan</h1>
 
 <p align="center">
   Developer | Game Creator | System Builder
@@ -76,8 +76,15 @@ My work ranges from interactive game experiences to web applications, backend se
 
 ## GitHub Activity
 
+## GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vunixx&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vunixx&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vunixx&layout=compact&hide_border=true&theme=tokyonight" width="41%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vunixx&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -100,7 +107,7 @@ My work ranges from interactive game experiences to web applications, backend se
   <a href="https://discord.com/users/1229307893396934758">
     <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://instagram.com/vunixx._">
+  <a href="https://instagram.com/reyy_aft">
     <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -110,5 +117,5 @@ My work ranges from interactive game experiences to web applications, backend se
 <p align="center">
   <strong>Code. Build. Improve.</strong>
   <br />
-  Rey | Vunixx
+  Raihan Croniawan Ramadhan | Yogyakarta, Indonesia
 </p>
