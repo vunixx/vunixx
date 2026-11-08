@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://vunixx.page.gd/assets/foto.png" width="104px" height="104px" border-radius="50%" />
+  <img src="https://vunixx.page.gd/assets/foto.png" width="50%" />
 </p>
 
 <h1 align="center">Raihan Croniawan Ramadhan</h1>
