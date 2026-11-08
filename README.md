@@ -75,14 +75,6 @@ My work ranges from interactive game experiences to web applications, backend se
 ---
 
 ## GitHub Activity
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vunixx&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vunixx&layout=compact&hide_border=true&theme=tokyonight" width="41%" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vunixx&theme=tokyonight&hide_border=true" width="100%" />
 </p>
